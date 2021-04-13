@@ -15,6 +15,7 @@
 		8C191EA42625C1B0008E06D2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8C191EA22625C1B0008E06D2 /* LaunchScreen.storyboard */; };
 		8C191EAF2625C1B0008E06D2 /* cardsTableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C191EAE2625C1B0008E06D2 /* cardsTableViewTests.swift */; };
 		8C191EBA2625C1B0008E06D2 /* cardsTableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C191EB92625C1B0008E06D2 /* cardsTableViewUITests.swift */; };
+		8C191ECB2625C1DD008E06D2 /* Cards.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8C191ECA2625C1DD008E06D2 /* Cards.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		8C191EB52625C1B0008E06D2 /* cardsTableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = cardsTableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C191EB92625C1B0008E06D2 /* cardsTableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cardsTableViewUITests.swift; sourceTree = "<group>"; };
 		8C191EBB2625C1B0008E06D2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8C191ECA2625C1DD008E06D2 /* Cards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Cards.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				8C191E972625C1AE008E06D2 /* AppDelegate.swift */,
 				8C191E992625C1AE008E06D2 /* SceneDelegate.swift */,
 				8C191E9B2625C1AE008E06D2 /* ViewController.swift */,
+				8C191ECA2625C1DD008E06D2 /* Cards.swift */,
 				8C191E9D2625C1AE008E06D2 /* Main.storyboard */,
 				8C191EA02625C1B0008E06D2 /* Assets.xcassets */,
 				8C191EA22625C1B0008E06D2 /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				8C191E9C2625C1AE008E06D2 /* ViewController.swift in Sources */,
 				8C191E982625C1AE008E06D2 /* AppDelegate.swift in Sources */,
 				8C191E9A2625C1AE008E06D2 /* SceneDelegate.swift in Sources */,
+				8C191ECB2625C1DD008E06D2 /* Cards.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
